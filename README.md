@@ -9,3 +9,11 @@ Big O Notations
    Quicksort
 5. O(n^2)
    Bubble Sort
+
+Code Explaination:
+
+Animal Class:
+The Animal class encapsulates properties such as name and age (encapsulation), provides setters and getters method and declares an abstract method (makeSound) which makes all the sub classes to implement their own makeSound method (abstraction).
+
+Dog, Cat Class:
+The Dog and Cat class extends Animal indicates that the Dog and Cat class is a subclass of the Animal class, this means that the Dog and Cat class inherits all the non-private properties and methods of the animal class (inheritance), the Dog and Cat class also constructs a constructor for their own classes and implements the makeSound method for the their sound (abstraction). They also change the value of the initial makeSound method and each of them has different value (polymorphism).
