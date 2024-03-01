@@ -10,6 +10,12 @@ Big O Notations
 5. O(n^2)
    Bubble Sort
 
+Code Screenshots:<br>
+<img src="ss code 1"><br>
+<img src="ss code 2"><br>
+<img src="ss code 3"><br>
+Output:<br>
+<img src="output code"><br>
 Code Explaination:
 
 Animal Class:
