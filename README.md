@@ -11,11 +11,11 @@ Big O Notations
    Bubble Sort
 
 Code Screenshots:<br>
-<img src="ss code 1"><br>
-<img src="ss code 2"><br>
-<img src="ss code 3"><br>
+<img src="ss code 1.jpg"><br>
+<img src="ss code 2.jpg"><br>
+<img src="ss code 3.jpg"><br>
 Output:<br>
-<img src="output code"><br>
+<img src="output code.jpg"><br>
 Code Explaination:
 
 Animal Class:
